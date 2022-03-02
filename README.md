@@ -1,6 +1,7 @@
-## Hi there 👋
 
-### My name is Işınsu Arıcı
+
+<h2 align="center">Hi there 👋, I'm Işınsu</h2>
+<br>
 
 <!--
 **isinsuarici/isinsuarici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
