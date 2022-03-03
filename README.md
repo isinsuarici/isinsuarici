@@ -1,6 +1,6 @@
 
 
-<h2 align="center">Hi there 👋, I'm Işınsu</h2>
+<h2 align="center">Hi there 👋, I'm Işınsu.</h2>
 <br>
 
 <!--
