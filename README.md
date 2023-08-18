@@ -3,7 +3,7 @@
  I'm a machine learning engineer with a bachelor's degree in computer engineering. I have technical experience and a keen interest in <b>machine learning, deep learning, </b>and <b>computer vision</b>. I am committed to constantly improving myself and staying updated with the latest developments in the field!
 </div>
 
-<br>
+
 
 <h2 align="center">🛠️ Tech Stack</h2>
 <div align="center">
@@ -42,7 +42,7 @@
 
 </div>
 
-<br>
+
 
 
 <h2 align="center">🔗  Connect with me</h2>
